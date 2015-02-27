@@ -1,0 +1,731 @@
+,artist,date,genre,song,year
+0,alicia keys,2008-01-05,R_and_B,like you'll never see me again,2008
+1,alicia keys,2008-01-12,R_and_B,like you'll never see me again,2008
+2,alicia keys,2008-01-19,R_and_B,like you'll never see me again,2008
+3,alicia keys,2008-01-26,R_and_B,like you'll never see me again,2008
+4,alicia keys,2008-02-02,R_and_B,like you'll never see me again,2008
+5,alicia keys,2008-02-09,R_and_B,like you'll never see me again,2008
+6,alicia keys,2008-02-16,R_and_B,like you'll never see me again,2008
+7,keyshia cole,2008-02-23,R_and_B,i remember,2008
+8,keyshia cole,2008-03-01,R_and_B,i remember,2008
+9,keyshia cole,2008-03-08,R_and_B,i remember,2008
+10,keyshia cole,2008-03-15,R_and_B,i remember,2008
+11,keyshia cole,2008-03-22,R_and_B,i remember,2008
+12,keyshia cole,2008-03-29,R_and_B,i remember,2008
+13,keyshia cole,2008-04-05,R_and_B,i remember,2008
+14,usher featuring young jeezy,2008-04-12,R_and_B,love in this club,2008
+15,usher featuring young jeezy,2008-04-19,R_and_B,love in this club,2008
+16,usher featuring young jeezy,2008-04-26,R_and_B,love in this club,2008
+17,usher featuring young jeezy,2008-05-03,R_and_B,love in this club,2008
+18,lil wayne featuring static major,2008-05-10,R_and_B,lollipop,2008
+19,lil wayne featuring static major,2008-05-17,R_and_B,lollipop,2008
+20,lil wayne featuring static major,2008-05-24,R_and_B,lollipop,2008
+21,lil wayne featuring static major,2008-05-31,R_and_B,lollipop,2008
+22,lil wayne featuring static major,2008-06-07,R_and_B,lollipop,2008
+23,lil wayne featuring static major,2008-06-14,R_and_B,lollipop,2008
+24,keyshia cole,2008-06-21,R_and_B,heaven sent,2008
+25,keyshia cole,2008-06-28,R_and_B,heaven sent,2008
+26,keyshia cole,2008-07-05,R_and_B,heaven sent,2008
+27,keyshia cole,2008-07-12,R_and_B,heaven sent,2008
+28,keyshia cole,2008-07-19,R_and_B,heaven sent,2008
+29,keyshia cole,2008-07-26,R_and_B,heaven sent,2008
+30,keyshia cole,2008-08-02,R_and_B,heaven sent,2008
+31,keyshia cole,2008-08-09,R_and_B,heaven sent,2008
+32,keyshia cole,2008-08-16,R_and_B,heaven sent,2008
+33,lil wayne,2008-08-23,R_and_B,a milli,2008
+34,rihanna,2008-08-30,R_and_B,take a bow,2008
+35,jazmine sullivan,2008-09-06,R_and_B,need u bad,2008
+36,jazmine sullivan,2008-09-13,R_and_B,need u bad,2008
+37,jazmine sullivan,2008-09-20,R_and_B,need u bad,2008
+38,jazmine sullivan,2008-09-27,R_and_B,need u bad,2008
+39,t.i.,2008-10-04,R_and_B,whatever you like,2008
+40,t.i.,2008-10-11,R_and_B,whatever you like,2008
+41,t.i.,2008-10-18,R_and_B,whatever you like,2008
+42,jennifer hudson,2008-10-25,R_and_B,spotlight,2008
+43,jennifer hudson,2008-11-01,R_and_B,spotlight,2008
+44,ne-yo,2008-11-08,R_and_B,miss independent,2008
+45,ne-yo,2008-11-15,R_and_B,miss independent,2008
+46,ne-yo,2008-11-22,R_and_B,miss independent,2008
+47,beyonce,2008-11-29,R_and_B,single ladies (put a ring on it),2008
+48,beyonce,2008-12-06,R_and_B,single ladies (put a ring on it),2008
+49,beyonce,2008-12-13,R_and_B,single ladies (put a ring on it),2008
+50,beyonce,2008-12-20,R_and_B,single ladies (put a ring on it),2008
+51,beyonce,2008-12-27,R_and_B,single ladies (put a ring on it),2008
+52,beyonce,2009-01-03,R_and_B,single ladies (put a ring on it),2009
+53,beyonce,2009-01-10,R_and_B,single ladies (put a ring on it),2009
+54,beyonce,2009-01-17,R_and_B,single ladies (put a ring on it),2009
+55,beyonce,2009-01-24,R_and_B,single ladies (put a ring on it),2009
+56,beyonce,2009-01-31,R_and_B,single ladies (put a ring on it),2009
+57,beyonce,2009-02-07,R_and_B,single ladies (put a ring on it),2009
+58,beyonce,2009-02-14,R_and_B,single ladies (put a ring on it),2009
+59,jamie foxx featuring t-pain,2009-02-21,R_and_B,blame it,2009
+60,jamie foxx featuring t-pain,2009-02-28,R_and_B,blame it,2009
+61,jamie foxx featuring t-pain,2009-03-07,R_and_B,blame it,2009
+62,jamie foxx featuring t-pain,2009-03-14,R_and_B,blame it,2009
+63,jamie foxx featuring t-pain,2009-03-21,R_and_B,blame it,2009
+64,jamie foxx featuring t-pain,2009-03-28,R_and_B,blame it,2009
+65,jamie foxx featuring t-pain,2009-04-04,R_and_B,blame it,2009
+66,jamie foxx featuring t-pain,2009-04-11,R_and_B,blame it,2009
+67,jamie foxx featuring t-pain,2009-04-18,R_and_B,blame it,2009
+68,jamie foxx featuring t-pain,2009-04-25,R_and_B,blame it,2009
+69,jamie foxx featuring t-pain,2009-05-02,R_and_B,blame it,2009
+70,jamie foxx featuring t-pain,2009-05-09,R_and_B,blame it,2009
+71,jamie foxx featuring t-pain,2009-05-16,R_and_B,blame it,2009
+72,jamie foxx featuring t-pain,2009-05-23,R_and_B,blame it,2009
+73,jeremih,2009-05-30,R_and_B,birthday sex,2009
+74,jeremih,2009-06-06,R_and_B,birthday sex,2009
+75,keri hilson featuring kanye west & ne-yo,2009-06-13,R_and_B,knock you down,2009
+76,keri hilson featuring kanye west & ne-yo,2009-06-20,R_and_B,knock you down,2009
+77,drake,2009-06-27,R_and_B,best i ever had,2009
+78,drake,2009-07-04,R_and_B,best i ever had,2009
+79,drake,2009-07-11,R_and_B,best i ever had,2009
+80,drake,2009-07-18,R_and_B,best i ever had,2009
+81,drake,2009-07-25,R_and_B,best i ever had,2009
+82,drake,2009-08-01,R_and_B,best i ever had,2009
+83,drake,2009-08-08,R_and_B,best i ever had,2009
+84,maxwell,2009-08-15,R_and_B,pretty wings,2009
+85,maxwell,2009-08-22,R_and_B,pretty wings,2009
+86,maxwell,2009-08-29,R_and_B,pretty wings,2009
+87,maxwell,2009-09-05,R_and_B,pretty wings,2009
+88,maxwell,2009-09-12,R_and_B,pretty wings,2009
+89,maxwell,2009-09-19,R_and_B,pretty wings,2009
+90,maxwell,2009-09-26,R_and_B,pretty wings,2009
+91,maxwell,2009-10-03,R_and_B,pretty wings,2009
+92,maxwell,2009-10-10,R_and_B,pretty wings,2009
+93,maxwell,2009-10-17,R_and_B,pretty wings,2009
+94,maxwell,2009-10-24,R_and_B,pretty wings,2009
+95,maxwell,2009-10-31,R_and_B,pretty wings,2009
+96,maxwell,2009-11-07,R_and_B,pretty wings,2009
+97,maxwell,2009-11-14,R_and_B,pretty wings,2009
+98,jay-z + alicia keys,2009-11-21,R_and_B,empire state of mind,2009
+99,jay-z + alicia keys,2009-11-28,R_and_B,empire state of mind,2009
+100,jay-z + alicia keys,2009-12-05,R_and_B,empire state of mind,2009
+101,usher,2009-12-12,R_and_B,papers,2009
+102,usher,2009-12-19,R_and_B,papers,2009
+103,trey songz featuring drake,2009-12-26,R_and_B,i invented sex,2009
+104,trey songz featuring drake,2010-01-02,R_and_B,i invented sex,2010
+105,melanie fiona,2010-01-09,R_and_B,it kills me,2010
+106,melanie fiona,2010-01-16,R_and_B,it kills me,2010
+107,melanie fiona,2010-01-23,R_and_B,it kills me,2010
+108,melanie fiona,2010-01-30,R_and_B,it kills me,2010
+109,melanie fiona,2010-02-06,R_and_B,it kills me,2010
+110,melanie fiona,2010-02-13,R_and_B,it kills me,2010
+111,melanie fiona,2010-02-20,R_and_B,it kills me,2010
+112,melanie fiona,2010-02-27,R_and_B,it kills me,2010
+113,melanie fiona,2010-03-06,R_and_B,it kills me,2010
+114,robin thicke,2010-03-13,R_and_B,sex therapy,2010
+115,robin thicke,2010-03-20,R_and_B,sex therapy,2010
+116,timbaland featuring drake,2010-03-27,R_and_B,say something,2010
+117,monica,2010-04-03,R_and_B,everything to me,2010
+118,monica,2010-04-10,R_and_B,everything to me,2010
+119,monica,2010-04-17,R_and_B,everything to me,2010
+120,monica,2010-04-24,R_and_B,everything to me,2010
+121,monica,2010-05-01,R_and_B,everything to me,2010
+122,monica,2010-05-08,R_and_B,everything to me,2010
+123,monica,2010-05-15,R_and_B,everything to me,2010
+124,alicia keys,2010-05-22,R_and_B,un-thinkable (i'm ready),2010
+125,alicia keys,2010-05-29,R_and_B,un-thinkable (i'm ready),2010
+126,alicia keys,2010-06-05,R_and_B,un-thinkable (i'm ready),2010
+127,alicia keys,2010-06-12,R_and_B,un-thinkable (i'm ready),2010
+128,alicia keys,2010-06-19,R_and_B,un-thinkable (i'm ready),2010
+129,alicia keys,2010-06-26,R_and_B,un-thinkable (i'm ready),2010
+130,alicia keys,2010-07-03,R_and_B,un-thinkable (i'm ready),2010
+131,alicia keys,2010-07-10,R_and_B,un-thinkable (i'm ready),2010
+132,alicia keys,2010-07-17,R_and_B,un-thinkable (i'm ready),2010
+133,alicia keys,2010-07-24,R_and_B,un-thinkable (i'm ready),2010
+134,alicia keys,2010-07-31,R_and_B,un-thinkable (i'm ready),2010
+135,alicia keys,2010-08-07,R_and_B,un-thinkable (i'm ready),2010
+136,usher,2010-08-14,R_and_B,there goes my baby,2010
+137,usher,2010-08-21,R_and_B,there goes my baby,2010
+138,usher,2010-08-28,R_and_B,there goes my baby,2010
+139,usher,2010-09-04,R_and_B,there goes my baby,2010
+140,chris brown featuring tyga & kevin mccall,2010-09-11,R_and_B,deuces,2010
+141,chris brown featuring tyga & kevin mccall,2010-09-18,R_and_B,deuces,2010
+142,chris brown featuring tyga & kevin mccall,2010-09-25,R_and_B,deuces,2010
+143,chris brown featuring tyga & kevin mccall,2010-10-02,R_and_B,deuces,2010
+144,chris brown featuring tyga & kevin mccall,2010-10-09,R_and_B,deuces,2010
+145,chris brown featuring tyga & kevin mccall,2010-10-16,R_and_B,deuces,2010
+146,chris brown featuring tyga & kevin mccall,2010-10-23,R_and_B,deuces,2010
+147,chris brown featuring tyga & kevin mccall,2010-10-30,R_and_B,deuces,2010
+148,chris brown featuring tyga & kevin mccall,2010-11-06,R_and_B,deuces,2010
+149,trey songz,2010-11-13,R_and_B,can't be friends,2010
+150,trey songz,2010-11-20,R_and_B,can't be friends,2010
+151,trey songz,2010-11-27,R_and_B,can't be friends,2010
+152,trey songz,2010-12-04,R_and_B,can't be friends,2010
+153,trey songz,2010-12-11,R_and_B,can't be friends,2010
+154,trey songz,2010-12-18,R_and_B,can't be friends,2010
+155,trey songz,2010-12-25,R_and_B,can't be friends,2010
+156,trey songz,2011-01-01,R_and_B,can't be friends,2011
+157,trey songz,2011-01-08,R_and_B,can't be friends,2011
+158,trey songz,2011-01-15,R_and_B,can't be friends,2011
+159,trey songz,2011-01-22,R_and_B,can't be friends,2011
+160,trey songz,2011-01-29,R_and_B,can't be friends,2011
+161,trey songz,2011-02-05,R_and_B,can't be friends,2011
+162,jamie foxx featuring drake,2011-02-12,R_and_B,fall for your type,2011
+163,jamie foxx featuring drake,2011-02-19,R_and_B,fall for your type,2011
+164,nicki minaj featuring drake,2011-02-26,R_and_B,moment 4 life,2011
+165,nicki minaj featuring drake,2011-03-05,R_and_B,moment 4 life,2011
+166,nicki minaj featuring drake,2011-03-12,R_and_B,moment 4 life,2011
+167,nicki minaj featuring drake,2011-03-19,R_and_B,moment 4 life,2011
+168,nicki minaj featuring drake,2011-03-26,R_and_B,moment 4 life,2011
+169,chris brown featuring lil wayne & busta rhymes,2011-04-02,R_and_B,look at me now,2011
+170,chris brown featuring lil wayne & busta rhymes,2011-04-09,R_and_B,look at me now,2011
+171,chris brown featuring lil wayne & busta rhymes,2011-04-16,R_and_B,look at me now,2011
+172,chris brown featuring lil wayne & busta rhymes,2011-04-23,R_and_B,look at me now,2011
+173,chris brown featuring lil wayne & busta rhymes,2011-04-30,R_and_B,look at me now,2011
+174,chris brown featuring lil wayne & busta rhymes,2011-05-07,R_and_B,look at me now,2011
+175,chris brown featuring lil wayne & busta rhymes,2011-05-14,R_and_B,look at me now,2011
+176,chris brown featuring lil wayne & busta rhymes,2011-05-21,R_and_B,look at me now,2011
+177,miguel,2011-05-28,R_and_B,sure thing,2011
+178,kelly rowland featuring lil wayne,2011-06-04,R_and_B,motivation,2011
+179,kelly rowland featuring lil wayne,2011-06-11,R_and_B,motivation,2011
+180,kelly rowland featuring lil wayne,2011-06-18,R_and_B,motivation,2011
+181,kelly rowland featuring lil wayne,2011-06-25,R_and_B,motivation,2011
+182,kelly rowland featuring lil wayne,2011-07-02,R_and_B,motivation,2011
+183,kelly rowland featuring lil wayne,2011-07-09,R_and_B,motivation,2011
+184,"dj khaled featuring drake, rick ross & lil wayne",2011-07-16,R_and_B,i'm on one,2011
+185,kelly rowland featuring lil wayne,2011-07-23,R_and_B,motivation,2011
+186,"dj khaled featuring drake, rick ross & lil wayne",2011-07-30,R_and_B,i'm on one,2011
+187,"dj khaled featuring drake, rick ross & lil wayne",2011-08-06,R_and_B,i'm on one,2011
+188,"dj khaled featuring drake, rick ross & lil wayne",2011-08-13,R_and_B,i'm on one,2011
+189,"dj khaled featuring drake, rick ross & lil wayne",2011-08-20,R_and_B,i'm on one,2011
+190,"dj khaled featuring drake, rick ross & lil wayne",2011-08-27,R_and_B,i'm on one,2011
+191,"dj khaled featuring drake, rick ross & lil wayne",2011-09-03,R_and_B,i'm on one,2011
+192,"dj khaled featuring drake, rick ross & lil wayne",2011-09-10,R_and_B,i'm on one,2011
+193,"dj khaled featuring drake, rick ross & lil wayne",2011-09-17,R_and_B,i'm on one,2011
+194,"dj khaled featuring drake, rick ross & lil wayne",2011-09-24,R_and_B,i'm on one,2011
+195,"dj khaled featuring drake, rick ross & lil wayne",2011-10-01,R_and_B,i'm on one,2011
+196,big sean featuring kanye west & roscoe dash,2011-10-08,R_and_B,marvin & chardonnay,2011
+197,lil wayne featuring drake,2011-10-15,R_and_B,she will,2011
+198,lil wayne featuring drake,2011-10-22,R_and_B,she will,2011
+199,lil wayne featuring drake,2011-10-29,R_and_B,she will,2011
+200,lil wayne featuring drake,2011-11-05,R_and_B,she will,2011
+201,jay z  kanye west,2011-11-12,R_and_B,ni**as in paris,2011
+202,jay z  kanye west,2011-11-19,R_and_B,ni**as in paris,2011
+203,jay z  kanye west,2011-11-26,R_and_B,ni**as in paris,2011
+204,jay z  kanye west,2011-12-03,R_and_B,ni**as in paris,2011
+205,jay z  kanye west,2011-12-10,R_and_B,ni**as in paris,2011
+206,jay z  kanye west,2011-12-17,R_and_B,ni**as in paris,2011
+207,jay z  kanye west,2011-12-24,R_and_B,ni**as in paris,2011
+208,wale featuring miguel,2011-12-31,R_and_B,lotus flower bomb,2011
+209,wale featuring miguel,2012-01-07,R_and_B,lotus flower bomb,2012
+210,wale featuring miguel,2012-01-14,R_and_B,lotus flower bomb,2012
+211,wale featuring miguel,2012-01-21,R_and_B,lotus flower bomb,2012
+212,wale featuring miguel,2012-01-28,R_and_B,lotus flower bomb,2012
+213,drake featuring nicki minaj,2012-02-04,R_and_B,make me proud,2012
+214,drake featuring nicki minaj,2012-02-11,R_and_B,make me proud,2012
+215,drake featuring nicki minaj,2012-02-18,R_and_B,make me proud,2012
+216,drake featuring lil wayne,2012-02-25,R_and_B,the motto,2012
+217,drake featuring lil wayne,2012-03-03,R_and_B,the motto,2012
+218,beyonce,2012-03-10,R_and_B,love on top,2012
+219,beyonce,2012-03-17,R_and_B,love on top,2012
+220,beyonce,2012-03-24,R_and_B,love on top,2012
+221,beyonce,2012-03-31,R_and_B,love on top,2012
+222,beyonce,2012-04-07,R_and_B,love on top,2012
+223,beyonce,2012-04-14,R_and_B,love on top,2012
+224,beyonce,2012-04-21,R_and_B,love on top,2012
+225,usher,2012-04-28,R_and_B,climax,2012
+226,usher,2012-05-05,R_and_B,climax,2012
+227,usher,2012-05-12,R_and_B,climax,2012
+228,usher,2012-05-19,R_and_B,climax,2012
+229,usher,2012-05-26,R_and_B,climax,2012
+230,usher,2012-06-02,R_and_B,climax,2012
+231,usher,2012-06-09,R_and_B,climax,2012
+232,usher,2012-06-16,R_and_B,climax,2012
+233,usher,2012-06-23,R_and_B,climax,2012
+234,usher,2012-06-30,R_and_B,climax,2012
+235,"kanye west, big sean, pusha t, 2 chainz",2012-07-07,R_and_B,mercy,2012
+236,usher,2012-07-14,R_and_B,climax,2012
+237,"kanye west, big sean, pusha t, 2 chainz",2012-07-21,R_and_B,mercy,2012
+238,"kanye west, big sean, pusha t, 2 chainz",2012-07-28,R_and_B,mercy,2012
+239,"kanye west, big sean, pusha t, 2 chainz",2012-08-04,R_and_B,mercy,2012
+240,"kanye west, big sean, pusha t, 2 chainz",2012-08-11,R_and_B,mercy,2012
+241,2 chainz featuring drake,2012-08-18,R_and_B,no lie,2012
+242,2 chainz featuring drake,2012-08-25,R_and_B,no lie,2012
+243,2 chainz featuring drake,2012-09-01,R_and_B,no lie,2012
+244,2 chainz featuring drake,2012-09-08,R_and_B,no lie,2012
+245,2 chainz featuring drake,2012-09-15,R_and_B,no lie,2012
+246,miguel,2012-09-22,R_and_B,adorn,2012
+247,miguel,2012-09-29,R_and_B,adorn,2012
+248,miguel,2012-10-06,R_and_B,adorn,2012
+249,miguel,2012-10-13,R_and_B,adorn,2012
+250,rihanna,2012-10-20,R_and_B,diamonds,2012
+251,rihanna,2012-10-27,R_and_B,diamonds,2012
+252,rihanna,2012-11-03,R_and_B,diamonds,2012
+253,rihanna,2012-11-10,R_and_B,diamonds,2012
+254,rihanna,2012-11-17,R_and_B,diamonds,2012
+255,rihanna,2012-11-24,R_and_B,diamonds,2012
+256,rihanna,2012-12-01,R_and_B,diamonds,2012
+257,rihanna,2012-12-08,R_and_B,diamonds,2012
+258,rihanna,2012-12-15,R_and_B,diamonds,2012
+259,rihanna,2012-12-22,R_and_B,diamonds,2012
+260,rihanna,2012-12-29,R_and_B,diamonds,2012
+261,rihanna,2013-01-05,R_and_B,diamonds,2013
+262,rihanna,2013-01-12,R_and_B,diamonds,2013
+263,rihanna,2013-01-19,R_and_B,diamonds,2013
+264,macklemore & ryan lewis featuring wanz,2013-01-26,R_and_B,thrift shop,2013
+265,macklemore & ryan lewis featuring wanz,2013-02-02,R_and_B,thrift shop,2013
+266,macklemore & ryan lewis featuring wanz,2013-02-09,R_and_B,thrift shop,2013
+267,macklemore & ryan lewis featuring wanz,2013-02-16,R_and_B,thrift shop,2013
+268,macklemore & ryan lewis featuring wanz,2013-02-23,R_and_B,thrift shop,2013
+269,macklemore & ryan lewis featuring wanz,2013-03-02,R_and_B,thrift shop,2013
+270,macklemore & ryan lewis featuring wanz,2013-03-09,R_and_B,thrift shop,2013
+271,macklemore & ryan lewis featuring wanz,2013-03-16,R_and_B,thrift shop,2013
+272,macklemore & ryan lewis featuring wanz,2013-03-23,R_and_B,thrift shop,2013
+273,macklemore & ryan lewis featuring wanz,2013-03-30,R_and_B,thrift shop,2013
+274,macklemore & ryan lewis featuring wanz,2013-04-06,R_and_B,thrift shop,2013
+275,macklemore & ryan lewis featuring wanz,2013-04-13,R_and_B,thrift shop,2013
+276,macklemore & ryan lewis featuring wanz,2013-04-20,R_and_B,thrift shop,2013
+277,macklemore & ryan lewis featuring wanz,2013-04-27,R_and_B,thrift shop,2013
+278,macklemore & ryan lewis featuring ray dalton,2013-05-04,R_and_B,can't hold us,2013
+279,macklemore & ryan lewis featuring ray dalton,2013-05-11,R_and_B,can't hold us,2013
+280,macklemore & ryan lewis featuring ray dalton,2013-05-18,R_and_B,can't hold us,2013
+281,macklemore & ryan lewis featuring ray dalton,2013-05-25,R_and_B,can't hold us,2013
+282,macklemore & ryan lewis featuring ray dalton,2013-06-01,R_and_B,can't hold us,2013
+283,macklemore & ryan lewis featuring ray dalton,2013-06-08,R_and_B,can't hold us,2013
+284,macklemore & ryan lewis featuring ray dalton,2013-06-15,R_and_B,can't hold us,2013
+285,robin thicke featuring t.i. + pharrell,2013-06-22,R_and_B,blurred lines,2013
+286,robin thicke featuring t.i. + pharrell,2013-06-29,R_and_B,blurred lines,2013
+287,robin thicke featuring t.i. + pharrell,2013-07-06,R_and_B,blurred lines,2013
+288,robin thicke featuring t.i. + pharrell,2013-07-13,R_and_B,blurred lines,2013
+289,robin thicke featuring t.i. + pharrell,2013-07-20,R_and_B,blurred lines,2013
+290,robin thicke featuring t.i. + pharrell,2013-07-27,R_and_B,blurred lines,2013
+291,robin thicke featuring t.i. + pharrell,2013-08-03,R_and_B,blurred lines,2013
+292,robin thicke featuring t.i. + pharrell,2013-08-10,R_and_B,blurred lines,2013
+293,robin thicke featuring t.i. + pharrell,2013-08-17,R_and_B,blurred lines,2013
+294,robin thicke featuring t.i. + pharrell,2013-08-24,R_and_B,blurred lines,2013
+295,robin thicke featuring t.i. + pharrell,2013-08-31,R_and_B,blurred lines,2013
+296,robin thicke featuring t.i. + pharrell,2013-09-07,R_and_B,blurred lines,2013
+297,robin thicke featuring t.i. + pharrell,2013-09-14,R_and_B,blurred lines,2013
+298,robin thicke featuring t.i. + pharrell,2013-09-21,R_and_B,blurred lines,2013
+299,robin thicke featuring t.i. + pharrell,2013-09-28,R_and_B,blurred lines,2013
+300,robin thicke featuring t.i. + pharrell,2013-10-05,R_and_B,blurred lines,2013
+301,drake featuring majid jordan,2013-10-12,R_and_B,"hold on, we're going home",2013
+302,drake featuring majid jordan,2013-10-19,R_and_B,"hold on, we're going home",2013
+303,drake featuring majid jordan,2013-10-26,R_and_B,"hold on, we're going home",2013
+304,drake featuring majid jordan,2013-11-02,R_and_B,"hold on, we're going home",2013
+305,drake featuring majid jordan,2013-11-09,R_and_B,"hold on, we're going home",2013
+306,eminem featuring rihanna,2013-11-16,R_and_B,the monster,2013
+307,eminem featuring rihanna,2013-11-23,R_and_B,the monster,2013
+308,eminem featuring rihanna,2013-11-30,R_and_B,the monster,2013
+309,eminem featuring rihanna,2013-12-07,R_and_B,the monster,2013
+310,eminem featuring rihanna,2013-12-14,R_and_B,the monster,2013
+311,eminem featuring rihanna,2013-12-21,R_and_B,the monster,2013
+312,eminem featuring rihanna,2013-12-28,R_and_B,the monster,2013
+313,eminem featuring rihanna,2014-01-04,R_and_B,the monster,2014
+314,eminem featuring rihanna,2014-01-11,R_and_B,the monster,2014
+315,eminem featuring rihanna,2014-01-18,R_and_B,the monster,2014
+316,eminem featuring rihanna,2014-01-25,R_and_B,the monster,2014
+317,eminem featuring rihanna,2014-02-01,R_and_B,the monster,2014
+318,eminem featuring rihanna,2014-02-08,R_and_B,the monster,2014
+319,beyonce featuring jay z,2014-02-15,R_and_B,drunk in love,2014
+320,pharrell williams,2014-02-22,R_and_B,happy,2014
+321,pharrell williams,2014-03-01,R_and_B,happy,2014
+322,pharrell williams,2014-03-08,R_and_B,happy,2014
+323,pharrell williams,2014-03-15,R_and_B,happy,2014
+324,pharrell williams,2014-03-22,R_and_B,happy,2014
+325,pharrell williams,2014-03-29,R_and_B,happy,2014
+326,pharrell williams,2014-04-05,R_and_B,happy,2014
+327,pharrell williams,2014-04-12,R_and_B,happy,2014
+328,pharrell williams,2014-04-19,R_and_B,happy,2014
+329,pharrell williams,2014-04-26,R_and_B,happy,2014
+330,pharrell williams,2014-05-03,R_and_B,happy,2014
+331,pharrell williams,2014-05-10,R_and_B,happy,2014
+332,john legend,2014-05-17,R_and_B,all of me,2014
+333,john legend,2014-05-24,R_and_B,all of me,2014
+334,john legend,2014-05-31,R_and_B,all of me,2014
+335,iggy azalea featuring charli xcx,2014-06-07,R_and_B,fancy,2014
+336,iggy azalea featuring charli xcx,2014-06-14,R_and_B,fancy,2014
+337,iggy azalea featuring charli xcx,2014-06-21,R_and_B,fancy,2014
+338,iggy azalea featuring charli xcx,2014-06-28,R_and_B,fancy,2014
+339,iggy azalea featuring charli xcx,2014-07-05,R_and_B,fancy,2014
+340,iggy azalea featuring charli xcx,2014-07-12,R_and_B,fancy,2014
+341,iggy azalea featuring charli xcx,2014-07-19,R_and_B,fancy,2014
+342,iggy azalea featuring charli xcx,2014-07-26,R_and_B,fancy,2014
+343,iggy azalea featuring charli xcx,2014-08-02,R_and_B,fancy,2014
+344,iggy azalea featuring charli xcx,2014-08-09,R_and_B,fancy,2014
+345,iggy azalea featuring charli xcx,2014-08-16,R_and_B,fancy,2014
+346,iggy azalea featuring charli xcx,2014-08-23,R_and_B,fancy,2014
+347,iggy azalea featuring charli xcx,2014-08-30,R_and_B,fancy,2014
+348,nicki minaj,2014-09-06,R_and_B,anaconda,2014
+349,nicki minaj,2014-09-13,R_and_B,anaconda,2014
+350,nicki minaj,2014-09-20,R_and_B,anaconda,2014
+351,nicki minaj,2014-09-27,R_and_B,anaconda,2014
+352,nicki minaj,2014-10-04,R_and_B,anaconda,2014
+353,nicki minaj,2014-10-11,R_and_B,anaconda,2014
+354,iggy azalea featuring rita ora,2014-10-18,R_and_B,black widow,2014
+355,iggy azalea featuring rita ora,2014-10-25,R_and_B,black widow,2014
+356,iggy azalea featuring rita ora,2014-11-01,R_and_B,black widow,2014
+357,iggy azalea featuring rita ora,2014-11-08,R_and_B,black widow,2014
+358,iggy azalea featuring rita ora,2014-11-15,R_and_B,black widow,2014
+359,bobby shmurda,2014-11-22,R_and_B,hot boy,2014
+360,bobby shmurda,2014-11-29,R_and_B,hot boy,2014
+361,big sean featuring e-40,2014-12-06,R_and_B,i don't f**k with you,2014
+362,big sean featuring e-40,2014-12-13,R_and_B,i don't f**k with you,2014
+363,beyonce,2014-12-20,R_and_B,7/11,2014
+364,"nicki minaj featuring drake, lil wayne & chris brown",2014-12-27,R_and_B,only,2014
+365,taylor swift,2008-01-05,Country,our song,2008
+366,taylor swift,2008-01-12,Country,our song,2008
+367,taylor swift,2008-01-19,Country,our song,2008
+368,taylor swift,2008-01-26,Country,our song,2008
+369,brad paisley,2008-02-02,Country,letter to me,2008
+370,brad paisley,2008-02-09,Country,letter to me,2008
+371,brad paisley,2008-02-16,Country,letter to me,2008
+372,brad paisley,2008-02-23,Country,letter to me,2008
+373,rodney atkins,2008-03-01,Country,cleaning this gun (come on in boy),2008
+374,rodney atkins,2008-03-08,Country,cleaning this gun (come on in boy),2008
+375,carrie underwood,2008-03-15,Country,all-american girl,2008
+376,carrie underwood,2008-03-22,Country,all-american girl,2008
+377,alan jackson,2008-03-29,Country,small town southern man,2008
+378,alan jackson,2008-04-05,Country,small town southern man,2008
+379,trace adkins,2008-04-12,Country,you're gonna miss this,2008
+380,trace adkins,2008-04-19,Country,you're gonna miss this,2008
+381,trace adkins,2008-04-26,Country,you're gonna miss this,2008
+382,george strait,2008-05-03,Country,i saw god today,2008
+383,george strait,2008-05-10,Country,i saw god today,2008
+384,james otto,2008-05-17,Country,just got started lovin' you,2008
+385,james otto,2008-05-24,Country,just got started lovin' you,2008
+386,brad paisley,2008-05-31,Country,i'm still a guy,2008
+387,brad paisley,2008-06-07,Country,i'm still a guy,2008
+388,brad paisley,2008-06-14,Country,i'm still a guy,2008
+389,carrie underwood,2008-06-21,Country,last name,2008
+390,kenny chesney,2008-06-28,Country,better as a memory,2008
+391,kenny chesney,2008-07-05,Country,better as a memory,2008
+392,montgomery gentry,2008-07-12,Country,back when i knew it all,2008
+393,blake shelton,2008-07-19,Country,home,2008
+394,blake shelton,2008-07-26,Country,home,2008
+395,alan jackson,2008-08-02,Country,good time,2008
+396,alan jackson,2008-08-09,Country,good time,2008
+397,sugarland,2008-08-16,Country,all i want to do,2008
+398,taylor swift,2008-08-23,Country,should've said no,2008
+399,taylor swift,2008-08-30,Country,should've said no,2008
+400,keith urban,2008-09-06,Country,you look good in my shirt,2008
+401,jimmy wayne,2008-09-13,Country,do you believe me now,2008
+402,brad paisley,2008-09-20,Country,waitin' on a woman,2008
+403,jimmy wayne,2008-09-27,Country,do you believe me now,2008
+404,darius rucker,2008-10-04,Country,don't think i don't think about it,2008
+405,darius rucker,2008-10-11,Country,don't think i don't think about it,2008
+406,kenny chesney,2008-10-18,Country,everybody wants to go to heaven,2008
+407,kenny chesney with the wailers,2008-10-25,Country,everybody wants to go to heaven,2008
+408,toby keith,2008-11-01,Country,she never cried in front of me,2008
+409,carrie underwood,2008-11-08,Country,just a dream,2008
+410,carrie underwood,2008-11-15,Country,just a dream,2008
+411,taylor swift,2008-11-22,Country,love story,2008
+412,taylor swift,2008-11-29,Country,love story,2008
+413,zac brown band,2008-12-06,Country,chicken fried,2008
+414,zac brown band,2008-12-13,Country,chicken fried,2008
+415,montgomery gentry,2008-12-20,Country,roll with me,2008
+416,montgomery gentry,2008-12-27,Country,roll with me,2008
+417,rascal flatts,2009-01-03,Country,here,2009
+418,rascal flatts,2009-01-10,Country,here,2009
+419,sugarland,2009-01-17,Country,already gone,2009
+420,brad paisley duet with keith urban,2009-01-24,Country,start a band,2009
+421,alan jackson,2009-01-31,Country,country boy,2009
+422,blake shelton,2009-02-07,Country,she wouldn't be gone,2009
+423,blake shelton,2009-02-14,Country,she wouldn't be gone,2009
+424,dierks bentley,2009-02-21,Country,feel that fire,2009
+425,kenny chesney with mac mcanally,2009-02-28,Country,down the road,2009
+426,toby keith,2009-03-07,Country,god love her,2009
+427,keith urban,2009-03-14,Country,sweet thing,2009
+428,keith urban,2009-03-21,Country,sweet thing,2009
+429,darius rucker,2009-03-28,Country,it won't be like this for long,2009
+430,darius rucker,2009-04-04,Country,it won't be like this for long,2009
+431,darius rucker,2009-04-11,Country,it won't be like this for long,2009
+432,george strait,2009-04-18,Country,river of love,2009
+433,rascal flatts,2009-04-25,Country,here comes goodbye,2009
+434,rodney atkins,2009-05-02,Country,it's america,2009
+435,rodney atkins,2009-05-09,Country,it's america,2009
+436,jason aldean,2009-05-16,Country,she's country,2009
+437,sugarland,2009-05-23,Country,it happens,2009
+438,sugarland,2009-05-30,Country,it happens,2009
+439,brad paisley,2009-06-06,Country,then,2009
+440,brad paisley,2009-06-13,Country,then,2009
+441,brad paisley,2009-06-20,Country,then,2009
+442,kenny chesney,2009-06-27,Country,out last night,2009
+443,kenny chesney,2009-07-04,Country,out last night,2009
+444,dierks bentley,2009-07-11,Country,sideways,2009
+445,dierks bentley,2009-07-18,Country,sideways,2009
+446,lady antebellum,2009-07-25,Country,i run to you,2009
+447,billy currington,2009-08-01,Country,people are crazy,2009
+448,billy currington,2009-08-08,Country,people are crazy,2009
+449,darius rucker,2009-08-15,Country,alright,2009
+450,taylor swift,2009-08-22,Country,you belong with me,2009
+451,taylor swift,2009-08-29,Country,you belong with me,2009
+452,jason aldean,2009-09-05,Country,big green tractor,2009
+453,jason aldean,2009-09-12,Country,big green tractor,2009
+454,jason aldean,2009-09-19,Country,big green tractor,2009
+455,jason aldean,2009-09-26,Country,big green tractor,2009
+456,justin moore,2009-10-03,Country,small town usa,2009
+457,toby keith,2009-10-10,Country,american ride,2009
+458,toby keith,2009-10-17,Country,american ride,2009
+459,chris young,2009-10-24,Country,gettin' you home (the black dress song),2009
+460,keith urban,2009-10-31,Country,only you can love me this way,2009
+461,zac brown band,2009-11-07,Country,toes,2009
+462,zac brown band,2009-11-14,Country,toes,2009
+463,carrie underwood,2009-11-21,Country,cowboy casanova,2009
+464,lady antebellum,2009-11-28,Country,need you now,2009
+465,lady antebellum,2009-12-05,Country,need you now,2009
+466,lady antebellum,2009-12-12,Country,need you now,2009
+467,lady antebellum,2009-12-19,Country,need you now,2009
+468,lady antebellum,2009-12-26,Country,need you now,2009
+469,reba,2010-01-02,Country,consider me gone,2010
+470,reba,2010-01-09,Country,consider me gone,2010
+471,reba,2010-01-16,Country,consider me gone,2010
+472,reba,2010-01-23,Country,consider me gone,2010
+473,tim mcgraw,2010-01-30,Country,southern voice,2010
+474,jason aldean,2010-02-06,Country,the truth,2010
+475,jason aldean,2010-02-13,Country,the truth,2010
+476,josh turner,2010-02-20,Country,why don't we just dance,2010
+477,josh turner,2010-02-27,Country,why don't we just dance,2010
+478,josh turner,2010-03-06,Country,why don't we just dance,2010
+479,josh turner,2010-03-13,Country,why don't we just dance,2010
+480,billy currington,2010-03-20,Country,that's how country boys roll,2010
+481,blake shelton featuring trace adkins,2010-03-27,Country,hillbilly bone,2010
+482,easton corbin,2010-04-03,Country,a little more country than that,2010
+483,carrie underwood,2010-04-10,Country,temporary home,2010
+484,zac brown band,2010-04-17,Country,highway 20 ride,2010
+485,lady antebellum,2010-04-24,Country,american honey,2010
+486,lady antebellum,2010-05-01,Country,american honey,2010
+487,joe nichols,2010-05-08,Country,gimmie that girl,2010
+488,joe nichols,2010-05-15,Country,gimmie that girl,2010
+489,chris young,2010-05-22,Country,the man i want to be,2010
+490,chris young,2010-05-29,Country,the man i want to be,2010
+491,chris young,2010-06-05,Country,the man i want to be,2010
+492,miranda lambert,2010-06-12,Country,the house that built me,2010
+493,miranda lambert,2010-06-19,Country,the house that built me,2010
+494,miranda lambert,2010-06-26,Country,the house that built me,2010
+495,miranda lambert,2010-07-03,Country,the house that built me,2010
+496,brad paisley,2010-07-10,Country,water,2010
+497,brad paisley,2010-07-17,Country,water,2010
+498,luke bryan,2010-07-24,Country,rain is a good thing,2010
+499,luke bryan,2010-07-31,Country,rain is a good thing,2010
+500,carrie underwood,2010-08-07,Country,undo it,2010
+501,jerrod niemann,2010-08-14,Country,"lover, lover",2010
+502,zac brown band,2010-08-21,Country,free,2010
+503,blake shelton,2010-08-28,Country,all about tonight,2010
+504,blake shelton,2010-09-04,Country,all about tonight,2010
+505,blake shelton,2010-09-11,Country,all about tonight,2010
+506,billy currington,2010-09-18,Country,pretty good at drinkin' beer,2010
+507,lady antebellum,2010-09-25,Country,our kind of love,2010
+508,lady antebellum,2010-10-02,Country,our kind of love,2010
+509,kenny chesney,2010-10-09,Country,the boys of fall,2010
+510,kenny chesney,2010-10-16,Country,the boys of fall,2010
+511,josh turner,2010-10-23,Country,all over me,2010
+512,easton corbin,2010-10-30,Country,roll with it,2010
+513,darius rucker,2010-11-06,Country,come back song,2010
+514,darius rucker,2010-11-13,Country,come back song,2010
+515,zac brown band featuring alan jackson,2010-11-20,Country,as she's walking away,2010
+516,zac brown band featuring alan jackson,2010-11-27,Country,as she's walking away,2010
+517,brad paisley,2010-12-04,Country,anything like me,2010
+518,the band perry,2010-12-11,Country,if i die young,2010
+519,rascal flatts,2010-12-18,Country,why wait,2010
+520,rascal flatts,2010-12-25,Country,why wait,2010
+521,reba,2011-01-01,Country,turn on the radio,2011
+522,tim mcgraw,2011-01-08,Country,felt good on my lips,2011
+523,tim mcgraw,2011-01-15,Country,felt good on my lips,2011
+524,tim mcgraw,2011-01-22,Country,felt good on my lips,2011
+525,kenny chesney,2011-01-29,Country,somewhere with you,2011
+526,kenny chesney,2011-02-05,Country,somewhere with you,2011
+527,kenny chesney,2011-02-12,Country,somewhere with you,2011
+528,chris young,2011-02-19,Country,voices,2011
+529,luke bryan,2011-02-26,Country,someone else calling you baby,2011
+530,blake shelton,2011-03-05,Country,who are you when i'm not looking,2011
+531,jason aldean with kelly clarkson,2011-03-12,Country,don't you wanna stay,2011
+532,jason aldean with kelly clarkson,2011-03-19,Country,don't you wanna stay,2011
+533,jason aldean with kelly clarkson,2011-03-26,Country,don't you wanna stay,2011
+534,billy currington,2011-04-02,Country,let me down easy,2011
+535,thompson square,2011-04-09,Country,are you gonna kiss me or not,2011
+536,zac brown band,2011-04-16,Country,colder weather,2011
+537,zac brown band,2011-04-23,Country,colder weather,2011
+538,darius rucker,2011-04-30,Country,this,2011
+539,kenny chesney,2011-05-07,Country,live a little,2011
+540,sara evans,2011-05-14,Country,a little bit stronger,2011
+541,sara evans,2011-05-21,Country,a little bit stronger,2011
+542,miranda lambert,2011-05-28,Country,heart like mine,2011
+543,brad paisley featuring alabama,2011-06-04,Country,old alabama,2011
+544,brad paisley featuring alabama,2011-06-11,Country,old alabama,2011
+545,keith urban,2011-06-18,Country,without you,2011
+546,blake shelton,2011-06-25,Country,honey bee,2011
+547,blake shelton,2011-07-02,Country,honey bee,2011
+548,blake shelton,2011-07-09,Country,honey bee,2011
+549,blake shelton,2011-07-16,Country,honey bee,2011
+550,justin moore,2011-07-23,Country,if heaven wasn't so far away,2011
+551,jason aldean,2011-07-30,Country,dirt road anthem,2011
+552,chris young,2011-08-06,Country,tomorrow,2011
+553,zac brown band featuring jimmy buffett,2011-08-13,Country,knee deep,2011
+554,lady antebellum,2011-08-20,Country,just a kiss,2011
+555,lady antebellum,2011-08-27,Country,just a kiss,2011
+556,dierks bentley,2011-09-03,Country,am i the only one,2011
+557,brad paisley duet with carrie underwood,2011-09-10,Country,remind me,2011
+558,jake owen,2011-09-17,Country,barefoot blue jean night,2011
+559,jake owen,2011-09-24,Country,barefoot blue jean night,2011
+560,rodney atkins,2011-10-01,Country,take a back road,2011
+561,rodney atkins,2011-10-08,Country,take a back road,2011
+562,toby keith,2011-10-15,Country,made in america,2011
+563,keith urban,2011-10-22,Country,long hot summer,2011
+564,blake shelton,2011-10-29,Country,god gave me you,2011
+565,blake shelton,2011-11-05,Country,god gave me you,2011
+566,blake shelton,2011-11-12,Country,god gave me you,2011
+567,eli young band,2011-11-19,Country,crazy girl,2011
+568,taylor swift,2011-11-26,Country,sparks fly,2011
+569,brantley gilbert,2011-12-03,Country,country must be country wide,2011
+570,lady antebellum,2011-12-10,Country,we owned the night,2011
+571,lady antebellum,2011-12-17,Country,we owned the night,2011
+572,zac brown band,2011-12-24,Country,keep me in mind,2011
+573,zac brown band,2011-12-31,Country,keep me in mind,2011
+574,zac brown band,2012-01-07,Country,keep me in mind,2012
+575,zac brown band,2012-01-14,Country,keep me in mind,2012
+576,david nail featuring sarah buxton,2012-01-21,Country,let it rain,2012
+577,eric church,2012-01-28,Country,drink in my hand,2012
+578,luke bryan,2012-02-04,Country,i don't want this night to end,2012
+579,chris young,2012-02-11,Country,you,2012
+580,the band perry,2012-02-18,Country,all your life,2012
+581,the band perry,2012-02-25,Country,all your life,2012
+582,keith urban,2012-03-03,Country,you gonna fly,2012
+583,keith urban,2012-03-10,Country,you gonna fly,2012
+584,kenny chesney,2012-03-17,Country,reality,2012
+585,dierks bentley,2012-03-24,Country,home,2012
+586,taylor swift,2012-03-31,Country,ours,2012
+587,jake owen,2012-04-07,Country,alone with you,2012
+588,jake owen,2012-04-14,Country,alone with you,2012
+589,lee brice,2012-04-21,Country,a woman like you,2012
+590,blake shelton,2012-04-28,Country,drink on it,2012
+591,blake shelton,2012-05-05,Country,drink on it,2012
+592,rascal flatts,2012-05-12,Country,banjo,2012
+593,miranda lambert,2012-05-19,Country,over you,2012
+594,jason aldean,2012-05-26,Country,fly over states,2012
+595,kip moore,2012-06-02,Country,somethin' 'bout a truck,2012
+596,kip moore,2012-06-09,Country,somethin' 'bout a truck,2012
+597,carrie underwood,2012-06-16,Country,good girl,2012
+598,eric church,2012-06-23,Country,springsteen,2012
+599,eric church,2012-06-30,Country,springsteen,2012
+600,luke bryan,2012-07-07,Country,drunk on you,2012
+601,luke bryan,2012-07-14,Country,drunk on you,2012
+602,brantley gilbert,2012-07-21,Country,you don't know her like i do,2012
+603,eli young band,2012-07-28,Country,even if it breaks your heart,2012
+604,dierks bentley,2012-08-04,Country,5-1-5-0,2012
+605,kenny chesney,2012-08-11,Country,come over,2012
+606,kenny chesney,2012-08-18,Country,come over,2012
+607,love and theft,2012-08-25,Country,angel eyes,2012
+608,blake shelton,2012-09-01,Country,over,2012
+609,blake shelton,2012-09-08,Country,over,2012
+610,little big town,2012-09-15,Country,pontoon,2012
+611,little big town,2012-09-22,Country,pontoon,2012
+612,hunter hayes,2012-09-29,Country,wanted,2012
+613,jason aldean,2012-10-06,Country,take a little ride,2012
+614,jason aldean,2012-10-13,Country,take a little ride,2012
+615,taylor swift,2012-10-20,Country,we are never ever getting back together,2012
+616,taylor swift,2012-10-27,Country,we are never ever getting back together,2012
+617,taylor swift,2012-11-03,Country,we are never ever getting back together,2012
+618,taylor swift,2012-11-10,Country,we are never ever getting back together,2012
+619,taylor swift,2012-11-17,Country,we are never ever getting back together,2012
+620,taylor swift,2012-11-24,Country,we are never ever getting back together,2012
+621,taylor swift,2012-12-01,Country,we are never ever getting back together,2012
+622,taylor swift,2012-12-08,Country,we are never ever getting back together,2012
+623,taylor swift,2012-12-15,Country,we are never ever getting back together,2012
+624,florida georgia line,2012-12-22,Country,cruise,2012
+625,florida georgia line,2012-12-29,Country,cruise,2012
+626,florida georgia line,2013-01-05,Country,cruise,2013
+627,taylor swift,2013-01-12,Country,we are never ever getting back together,2013
+628,florida georgia line,2013-01-19,Country,cruise,2013
+629,florida georgia line,2013-01-26,Country,cruise,2013
+630,the band perry,2013-02-02,Country,better dig two,2013
+631,gary allan,2013-02-09,Country,every storm (runs out of rain),2013
+632,the band perry,2013-02-16,Country,better dig two,2013
+633,hunter hayes,2013-02-23,Country,wanted,2013
+634,hunter hayes,2013-03-02,Country,wanted,2013
+635,blake shelton,2013-03-09,Country,sure be cool if you did,2013
+636,blake shelton,2013-03-16,Country,sure be cool if you did,2013
+637,blake shelton,2013-03-23,Country,sure be cool if you did,2013
+638,blake shelton,2013-03-30,Country,sure be cool if you did,2013
+639,blake shelton,2013-04-06,Country,sure be cool if you did,2013
+640,darius rucker,2013-04-13,Country,wagon wheel,2013
+641,florida georgia line,2013-04-20,Country,cruise,2013
+642,florida georgia line,2013-04-27,Country,cruise,2013
+643,florida georgia line,2013-05-04,Country,cruise,2013
+644,florida georgia line,2013-05-11,Country,cruise,2013
+645,florida georgia line,2013-05-18,Country,cruise,2013
+646,florida georgia line,2013-05-25,Country,cruise,2013
+647,florida georgia line,2013-06-01,Country,cruise,2013
+648,florida georgia line,2013-06-08,Country,cruise,2013
+649,florida georgia line,2013-06-15,Country,cruise,2013
+650,florida georgia line,2013-06-22,Country,cruise,2013
+651,florida georgia line,2013-06-29,Country,cruise,2013
+652,florida georgia line,2013-07-06,Country,cruise,2013
+653,florida georgia line,2013-07-13,Country,cruise,2013
+654,florida georgia line,2013-07-20,Country,cruise,2013
+655,florida georgia line,2013-07-27,Country,cruise,2013
+656,florida georgia line,2013-08-03,Country,cruise,2013
+657,florida georgia line,2013-08-10,Country,cruise,2013
+658,florida georgia line,2013-08-17,Country,cruise,2013
+659,florida georgia line,2013-08-24,Country,cruise,2013
+660,luke bryan,2013-08-31,Country,that's my kind of night,2013
+661,luke bryan,2013-09-07,Country,that's my kind of night,2013
+662,luke bryan,2013-09-14,Country,that's my kind of night,2013
+663,luke bryan,2013-09-21,Country,that's my kind of night,2013
+664,luke bryan,2013-09-28,Country,that's my kind of night,2013
+665,luke bryan,2013-10-05,Country,that's my kind of night,2013
+666,luke bryan,2013-10-12,Country,that's my kind of night,2013
+667,luke bryan,2013-10-19,Country,that's my kind of night,2013
+668,luke bryan,2013-10-26,Country,that's my kind of night,2013
+669,luke bryan,2013-11-02,Country,that's my kind of night,2013
+670,luke bryan,2013-11-09,Country,that's my kind of night,2013
+671,luke bryan,2013-11-16,Country,that's my kind of night,2013
+672,keith urban and miranda lambert,2013-11-23,Country,we were us,2013
+673,keith urban and miranda lambert,2013-11-30,Country,we were us,2013
+674,keith urban and miranda lambert,2013-12-07,Country,we were us,2013
+675,florida georgia line,2013-12-14,Country,stay,2013
+676,florida georgia line,2013-12-21,Country,stay,2013
+677,florida georgia line,2013-12-28,Country,stay,2013
+678,florida georgia line,2014-01-04,Country,stay,2014
+679,florida georgia line,2014-01-11,Country,stay,2014
+680,florida georgia line,2014-01-18,Country,stay,2014
+681,luke bryan,2014-01-25,Country,drink a beer,2014
+682,luke bryan,2014-02-01,Country,drink a beer,2014
+683,luke bryan,2014-02-08,Country,drink a beer,2014
+684,luke bryan,2014-02-15,Country,drink a beer,2014
+685,luke bryan,2014-02-22,Country,drink a beer,2014
+686,cole swindell,2014-03-01,Country,chillin' it,2014
+687,cole swindell,2014-03-08,Country,chillin' it,2014
+688,brantley gilbert,2014-03-15,Country,bottoms up,2014
+689,brantley gilbert,2014-03-22,Country,bottoms up,2014
+690,florida georgia line featuring luke bryan,2014-03-29,Country,this is how we roll,2014
+691,florida georgia line featuring luke bryan,2014-04-05,Country,this is how we roll,2014
+692,florida georgia line featuring luke bryan,2014-04-12,Country,this is how we roll,2014
+693,florida georgia line featuring luke bryan,2014-04-19,Country,this is how we roll,2014
+694,luke bryan,2014-04-26,Country,play it again,2014
+695,luke bryan,2014-05-03,Country,play it again,2014
+696,luke bryan,2014-05-10,Country,play it again,2014
+697,luke bryan,2014-05-17,Country,play it again,2014
+698,luke bryan,2014-05-24,Country,play it again,2014
+699,luke bryan,2014-05-31,Country,play it again,2014
+700,luke bryan,2014-06-07,Country,play it again,2014
+701,luke bryan,2014-06-14,Country,play it again,2014
+702,florida georgia line featuring luke bryan,2014-06-21,Country,this is how we roll,2014
+703,florida georgia line featuring luke bryan,2014-06-28,Country,this is how we roll,2014
+704,luke bryan,2014-07-05,Country,play it again,2014
+705,miranda lambert duet with carrie underwood,2014-07-12,Country,somethin' bad,2014
+706,jake owen,2014-07-19,Country,beachin',2014
+707,florida georgia line,2014-07-26,Country,dirt,2014
+708,florida georgia line,2014-08-02,Country,dirt,2014
+709,jason aldean,2014-08-09,Country,burnin' it down,2014
+710,jason aldean,2014-08-16,Country,burnin' it down,2014
+711,jason aldean,2014-08-23,Country,burnin' it down,2014
+712,jason aldean,2014-08-30,Country,burnin' it down,2014
+713,jason aldean,2014-09-06,Country,burnin' it down,2014
+714,jason aldean,2014-09-13,Country,burnin' it down,2014
+715,jason aldean,2014-09-20,Country,burnin' it down,2014
+716,jason aldean,2014-09-27,Country,burnin' it down,2014
+717,jason aldean,2014-10-04,Country,burnin' it down,2014
+718,jason aldean,2014-10-11,Country,burnin' it down,2014
+719,jason aldean,2014-10-18,Country,burnin' it down,2014
+720,jason aldean,2014-10-25,Country,burnin' it down,2014
+721,jason aldean,2014-11-01,Country,burnin' it down,2014
+722,jason aldean,2014-11-08,Country,burnin' it down,2014
+723,sam hunt,2014-11-15,Country,leave the night on,2014
+724,carrie underwood,2014-11-22,Country,something in the water,2014
+725,carrie underwood,2014-11-29,Country,something in the water,2014
+726,carrie underwood,2014-12-06,Country,something in the water,2014
+727,tim mcgraw,2014-12-13,Country,shotgun rider,2014
+728,tim mcgraw,2014-12-20,Country,shotgun rider,2014
+729,tim mcgraw,2014-12-27,Country,shotgun rider,2014
