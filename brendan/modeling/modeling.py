@@ -7,14 +7,17 @@ coding=utf-8
 import random
 
 import pandas as pd
+import numpy as np
 from nb import naivebayes
+
+import validation
 # global variables
 # *********************************
 
 
 __author__ = 'bjherger'
 __version__ = '1.0'
-__email__ = 'b@revupsoftware.com'
+__email__ = '13herger@gmail.com'
 __status__ = 'Development'
 __maintainer__ = 'bjherger'
 
@@ -23,24 +26,10 @@ __maintainer__ = 'bjherger'
 # *********************************
 
 def generate_lyrics_df():
-    lyrics_df = pd.read_csv('data/unique_tracks.csv', index_col = 0)
+    lyrics_df = pd.read_csv('../../data/raw/rb_adultcontemp_train.csv',
+                            index_col=0)
     return lyrics_df
 
-def create_test_train(df, y_label):
-
-    sample_size = int(len(df.index)*.1)
-    test_rows = random.sample(df.index, sample_size)
-
-    train = df.drop(test_rows)
-    test = df.ix[test_rows]
-
-    train_x_df = train.drop(y_label, axis=1)['lyrics']
-    train_y_df = train[y_label]
-
-    test_x_df = test.drop(y_label, axis=1)['lyrics']
-    test_y_df = test[y_label]
-
-    return train_x_df.as_matrix(), train_y_df.as_matrix(), test_x_df.as_matrix(), test_y_df.as_matrix()
 
 def run_nb(train_x, train_y, test_x):
     nb = naivebayes.NaiveBayes()
@@ -50,13 +39,20 @@ def run_nb(train_x, train_y, test_x):
     preds = nb.predict(test_x)
     return preds
 
+
 def main():
     print 'hello world'
     lyrics_df = generate_lyrics_df()
-    train_x, train_y, test_x, test_y = create_test_train(lyrics_df, 'genre')
+    train_x, train_y, test_x, test_y = validation.create_test_train(lyrics_df,
+                                                             'genre')
     nb_preds = run_nb(train_x, train_y, test_x)
-    print zip(nb_preds, test_y)
+    validation.compute_accuracy(nb_preds, test_y)
+    results = validation.k_folds(data_frame=lyrics_df,
+                             learner=naivebayes.NaiveBayes, k=5)
 
+    print np.mean(results)
+    print np.std(results)
+    print results
 
 
 # main
