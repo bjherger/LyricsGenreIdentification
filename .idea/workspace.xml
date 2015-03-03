@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eb69d79-6a0d-411f-8d04-d8461782c42c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/brendan/modeling/validation.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/brendan/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/brendan/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/brendan/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/brendan/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/brendan/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/brendan/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/brendan/.idea/proj1-lyrics.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/brendan/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/brendan/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/brendan/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/brendan/modeling/modeling.py" afterPath="$PROJECT_DIR$/brendan/modeling/modeling.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/brendan/modeling/nb" afterPath="$PROJECT_DIR$/brendan/modeling/nb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="project1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,8 +48,8 @@
           <file leaf-file-name="bhUtilties.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/brendan/modeling/nb/bhUtilties.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.60475165" vertical-offset="2240" max-vertical-offset="3744">
-                  <caret line="146" column="40" selection-start-line="146" selection-start-column="40" selection-end-line="146" selection-end-column="40" />
+                <state vertical-scroll-proportion="0.56587476" vertical-offset="2240" max-vertical-offset="3744">
+                  <caret line="145" column="38" selection-start-line="145" selection-start-column="38" selection-end-line="145" selection-end-column="38" />
                   <folding />
                 </state>
               </provider>
@@ -519,8 +509,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/brendan/modeling/nb/bhUtilties.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60475165" vertical-offset="2240" max-vertical-offset="3744">
-          <caret line="146" column="40" selection-start-line="146" selection-start-column="40" selection-end-line="146" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.56587476" vertical-offset="2240" max-vertical-offset="3744">
+          <caret line="145" column="38" selection-start-line="145" selection-start-column="38" selection-end-line="145" selection-end-column="38" />
           <folding />
         </state>
       </provider>
