@@ -26,7 +26,7 @@ __maintainer__ = 'bjherger'
 # *********************************
 
 def generate_lyrics_df():
-    lyrics_df = pd.read_csv('../../data/raw/rb_adultcontemp_train.csv',
+    lyrics_df = pd.read_csv('../../data/raw/train_with_features.csv',
                             index_col=0)
     return lyrics_df
 
@@ -43,16 +43,16 @@ def run_nb(train_x, train_y, test_x):
 def main():
     print 'hello world'
     lyrics_df = generate_lyrics_df()
-    train_x, train_y, test_x, test_y = validation.create_test_train(lyrics_df,
-                                                             'genre')
+    train_x, train_y, test_x, test_y = validation.create_test_train(lyrics_df,'genre')
     nb_preds = run_nb(train_x, train_y, test_x)
-    validation.compute_accuracy(nb_preds, test_y)
-    results = validation.k_folds(data_frame=lyrics_df,
-                             learner=naivebayes.NaiveBayes, k=5)
 
-    print np.mean(results)
-    print np.std(results)
-    print results
+    print 'NB holdout accuracy'
+    print validation.compute_accuracy(nb_preds, test_y)
+    # results = validation.k_folds(data_frame=lyrics_df, learner=naivebayes.NaiveBayes, k=5)
+
+    # print np.mean(results)
+    # print np.std(results)
+    # print results
 
 
 # main

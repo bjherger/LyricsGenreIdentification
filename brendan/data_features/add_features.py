@@ -14,6 +14,7 @@ import numpy as np
 import pandas as pd
 import bhUtilities
 import datetime
+import random
 
 
 __author__ = 'bjherger'
@@ -191,10 +192,38 @@ def clean_df2(df):
     return df
 
 
+def create_train_test():
+    raw_df= pd.read_csv('../../data/total.csv')
+
+    # Subset to r and b and adult contemporary
+    raw_df = raw_df[(raw_df['genre'] == 'R_and_B') | (raw_df['genre'] == 'adult_contemp')]
+
+    # Only keep rows with song, artist, lyrics
+    raw_df = raw_df.drop_duplicates(cols='lyrics_body')
+    raw_df = raw_df[pd.notnull(raw_df['artist'])]
+    raw_df = raw_df[pd.notnull(raw_df['song'])]
+    raw_df = raw_df[pd.notnull(raw_df['lyrics_body'])]
+
+    raw_df = clean_df2(raw_df)
+
+
+    # Sample 5% holdout
+    rows = random.sample(raw_df.index, int(len(raw_df.index) * .95))
+
+    train = raw_df.ix[rows]
+    holdout = raw_df.drop(rows)
+    print train.shape
+    print holdout.shape
+
+    train.to_csv('train.csv')
+    holdout.to_csv('holdout.csv')
+
+
 def main():
-    raw_df = pd.read_csv('../../data/raw/rb_adultcontemp_train.csv')
-    normalized = clean_df2(raw_df)
-    normalized.to_csv('train_with_features.csv')
+    # raw_df = pd.read_csv('../../data/total.csv')
+    # normalized = clean_df2(raw_df)
+    # normalized.to_csv('all_with_features.csv')
+    create_train_test()
     print 'hello world'
 
 # main
